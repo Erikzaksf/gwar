@@ -3,6 +3,7 @@
   text-align: center;
   background-color: red;
   border-style: solid;
+  padding: 4px;
   width: 30%;
   margin-left: 50px;
   margin-right: 50px;
@@ -14,6 +15,7 @@
   list-style-type: none;
   font-size: 30px;
   float: right;
+  padding: 4px;
 }
 
 .story {
