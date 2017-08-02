@@ -13,10 +13,11 @@
 #buddy {
   list-style-type: none;
   font-size: 30px;
+  float: right;
 }
 
-.journal {
-  float: right;
+.story {
+  float: left;
 }
 
 #tour {
