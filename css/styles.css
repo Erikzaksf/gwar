@@ -1,0 +1,24 @@
+.sidebar {
+  float: left;
+  text-align: center;
+  background-color: red;
+  border-style: solid;
+  width: 30%;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50 px;
+  margin-bottom: 50 px;
+}
+
+#buddy {
+  list-style-type: none;
+  font-size: 30px;
+}
+
+.journal {
+  float: right;
+}
+
+#tour {
+  text-align: center;
+}
